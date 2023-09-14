@@ -20,4 +20,4 @@ What things you need to install the software and how to install them.
 
 ## Authors
 
-    * Charles Ménard - Devops
+    * Charles Ménard - Super Devops
